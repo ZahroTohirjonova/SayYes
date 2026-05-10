@@ -78522,7 +78522,7 @@ r=A.iM(s)
 r.toString
 if(p.vA(r)){p=t.z
 s=B.c6.dV(B.cX.QP(A.an(["q",q.e.a.a,"n",q.f.a.a,"s",q.r.a.a,"f","Great Vibes","a","Hearts","bg","FFF0F0"],t.N,p),null))
-q.aac("https://username.github.io/repository_name/?d="+B.lC.gEe().dV(s))
+q.aac("https://zahrotohirjonova.github.io/SayYes/?d="+B.lC.gEe().dV(s))
 p=A.apw(new A.acz(q),null,p)
 A.nF(this.b,!1).nc(p)}},
 $S:0}
