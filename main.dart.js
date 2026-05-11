@@ -78698,7 +78698,7 @@ s.toString
 r=A.iN(s)
 r.toString
 if(p.vB(r)){p=B.c6.dN(B.cr.QS(A.an(["q",q.at.a.a,"n",q.ax.a.a,"s",q.ay.a.a,"f","Great Vibes","a","Hearts","bg","FFF0F0"],t.N,t.z),null))
-q.aaj("https://zahrotohirjonova.github.io/SayYes/?d="+B.lD.gEh().dN(p))}},
+q.aaj("https://z3r02rust.github.io/SayYes/?d="+B.lD.gEh().dN(p))}},
 $S:0}
 A.acB.prototype={
 $0(){var s=this.a
